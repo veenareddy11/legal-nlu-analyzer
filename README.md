@@ -3,7 +3,7 @@
 An AI-powered tool that automatically identifies and classifies legal clauses in contracts using a fine-tuned Legal-BERT transformer model.
 
 ## 🚀 Live Demo
-Check out the interactive app here: [INSERT YOUR HUGGING FACE LINK]
+Check out the interactive app here: https://huggingface.co/spaces/Veenareddyy/legal-nlu-analyzer
 
 ## 📌 Project Overview
 Legal documents are long and complex. This project uses Natural Language Understanding (NLU) to help lawyers and professionals quickly categorize clauses (e.g., Termination, Governing Law, Indemnification).
